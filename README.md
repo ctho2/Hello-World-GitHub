@@ -1,2 +1,2 @@
 # Hello-World-GitHub
-lipsum
+Hello, I'm HO Chun Tou at CUHK CSCI!
